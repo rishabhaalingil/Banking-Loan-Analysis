@@ -16,6 +16,7 @@ Here’s a rundown of the steps:
       - Applied conditional formatting to highlight key metrics, helping users quickly identify areas of high risk or performance.
 5. Interactivity & User Experience
       - Incorporated tooltips and interactive filtering to ensure a seamless, user-friendly experience. The dashboard is designed to offer bank analysts real-time insights, facilitating data-driven decision-making.
+
 The report contains two dashboards:
 Dashboard 1: Summary & KPIs:
 Developed a dynamic dashboard providing a snapshot of crucial metrics like Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Average Debt-to-Income Ratio (DTI). These metrics, tracked MoM, shed light on the trends and shifts in our loan activities.
