@@ -70,6 +70,14 @@ Leveraging Excel’s charting capabilities, I created visual representations suc
 9. Bad Loan Percentage is highest (25.62%) in the Small Business category.
 10. Applicants in the Grade G category have a higher tendency to apply for 60-month loan terms (82%).
 
+# How This Analysis Can Help Improve Bank Performance:
+
+1. Identifying trends and patterns in loan services enables banks to make data-driven decisions for product development, risk management, and customer targeting.
+2. Understanding borrower behaviour and preferences allows banks to tailor loan products and services to meet evolving customer needs.
+3. Monitoring KPIs and performance metrics helps banks identify areas for optimization, mitigate risks, and enhance overall efficiency and profitability in their loan services.
+
+
+
 
 
 
